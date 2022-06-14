@@ -1,4 +1,35 @@
-# Sample Snack app
+# Sistema de Login
+
+#### Tela de Login e de Cadastro para uma academia de dança tematizada no jogo popular League Of Legends e sua campeã Evellyn!
+
+![image](https://user-images.githubusercontent.com/93789218/173666302-060acbd1-f0d7-4fe8-85fe-746fe2b27521.png)
+![image](https://user-images.githubusercontent.com/93789218/173667382-a84e8f72-aee4-4a29-bf3a-637a0e9f0b85.png)
+
+
+## Conhecimentos:
+
+- React-Native:
+  - Componentes:
+    - ImageBackground
+    - FlatList
+    - StyleSheet
+    - TouchableOpacity
+    - Image
+    - Functions
+    - Variáveis (const, var)
+    - UseState
+    - UseEffect
+    - TextInput 
+    - StackNavigator
+
+- Firebase:
+  - Armazenamento de Dados
+  - Autenticação
+  - Verificação de credenciais
+
+
+
+### Ambiente de Desenvolvimento: Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
